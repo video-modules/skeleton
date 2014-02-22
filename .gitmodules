@@ -1,0 +1,6 @@
+[submodule "app/core"]
+	path = app/core
+	url = https://github.com/video-modules/core.git
+[submodule "manager"]
+	path = manager
+	url = https://github.com/video-modules/admin.git
